@@ -40,5 +40,5 @@ jobs:
         with:
           commit_message: 🔖 Upload update addon manifests
           commit_user_name: Fushra Robot
-          commit_user_email: trickypr@gmail.com
+          commit_user_email: me@gnux.cn
           repository: ./updates
