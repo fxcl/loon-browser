@@ -38,8 +38,8 @@ jobs:
 
       - name: Setup git
         run: |
-          git config --global user.email "trickypr@users.noreply.github.com"
-          git config --global user.name "TrickyPR"
+          git config --global user.email "me@gnux.cn"
+          git config --global user.name "fxcl"
 
       - name: Install system dependencies
         run: |
@@ -168,8 +168,8 @@ jobs:
 
       - name: Setup git
         run: |
-          git config --global user.email "trickypr@users.noreply.github.com"
-          git config --global user.name "TrickyPR"
+          git config --global user.email "me@gnux.cn"
+          git config --global user.name "fxcl"
 
       - name: Display structure of downloaded files
         run: ls -R
@@ -230,8 +230,8 @@ jobs:
 
       - name: Setup git
         run: |
-          git config --global user.email "trickypr@users.noreply.github.com"
-          git config --global user.name "TrickyPR"
+          git config --global user.email "me@gnux.cn"
+          git config --global user.name "fxcl"
 
       - name: Install system dependencies
         run: |
@@ -316,8 +316,8 @@ jobs:
 
       - name: Setup git
         run: |
-          git config --global user.email "trickypr@users.noreply.github.com"
-          git config --global user.name "TrickyPR"
+          git config --global user.email "me@gnux.cn"
+          git config --global user.name "fxcl"
 
       - name: Setup melon
         run: yarn
